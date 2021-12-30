@@ -1,0 +1,7 @@
+name: NoteMC
+version: 1.0
+main: main.Main
+commands:
+  notemc:
+    description: ""
+  
