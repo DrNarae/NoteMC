@@ -1,4 +1,4 @@
-# NoteMC
+# NoteMC (Deprecated)
 
 마인크래프트 게임 내 작곡을 도와주는 플러그인 입니다.
 
